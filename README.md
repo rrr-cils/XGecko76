@@ -4,14 +4,12 @@
 
 Have you ever wanted to see your gecko's firmware? Or package your own? Me too, kind of, and now we can.
 
-## Quick start
+## Usage
 
 ```sh
 python3 xgecko76.py -u UpdateT76.Dat -o fw.bin
 python3 xgecko76.py -p my_fw.bin -k UpdateT76.Dat -o my_update.Dat
 ```
-
-Packing requires specifying a vendor update file with `-k`.
 
 ## It worked on my computer ¯\\\_(ツ)\_/¯
 
