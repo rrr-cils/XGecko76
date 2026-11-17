@@ -11,8 +11,6 @@ python3 xgecko.py -u UpdateT76.Dat -o fw.bin
 python3 xgecko.py -p my_fw.bin -k UpdateT76.Dat -o my_update.Dat
 ```
 
-Old Xgpro versions are mirrored at [Kreeblah/XGecu_Software](https://github.com/Kreeblah/XGecu_Software).
-
 ## It worked on my computer ¯\\\_(ツ)\_/¯
 
 ```
