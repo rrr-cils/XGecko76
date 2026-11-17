@@ -4,8 +4,8 @@
     xgecko48.py -u UpdateT48.dat -o fw.bin
     xgecko48.py -p my_fw.bin -k UpdateT48.dat -o my_update.dat
 
-Status: checked against one vendor file only (Xgpro V13.16, firmware 1.39).
-Untested on hardware.
+Status: checked against all 27 distinct vendor files (Xgpro V12.01 to V13.16,
+firmware 1.03 to 1.39). Untested on hardware.
 
 The T48 uses the same container and cipher as the T76 (see xgecko76.py), with
 these differences:

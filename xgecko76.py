@@ -4,6 +4,9 @@
     xgecko76.py -u UpdateT76.Dat -o fw.bin
     xgecko76.py -p my_fw.bin -k UpdateT76.Dat -o my_update.Dat
 
+Status: checked against all 14 distinct vendor files (Xgpro V12.75 to V13.25,
+firmware 1.03 to 1.19). A repacked, modified 1.19 image has run on a T76.
+
 File format (all integers little-endian)
 ----------------------------------------
 header, 16 bytes:
